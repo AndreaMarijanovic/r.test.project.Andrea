@@ -3,7 +3,7 @@
     "path": "C:/Ex. 3/r.test.project.Andrea/test.R",
     "project_path": "test.R",
     "type": "r_source",
-    "hash": "3568558147",
+    "hash": "3738629080",
     "contents": "",
     "dirty": false,
     "created": 1675852201041.0,
@@ -13,15 +13,15 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "0,6",
+        "cursorPosition": "2,13",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1675852217,
+    "lastKnownWriteTime": 1675852444,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1675852217160,
+    "last_content_update": 1675852444080,
     "read_only": false,
     "read_only_alternatives": []
 }
