@@ -1,0 +1,27 @@
+{
+    "id": "AD254AEB",
+    "path": "C:/Ex. 3/r.test.project.Andrea/test.R",
+    "project_path": "test.R",
+    "type": "r_source",
+    "hash": "3568558147",
+    "contents": "",
+    "dirty": false,
+    "created": 1675852201041.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "0,6",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1675852217,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1675852217160,
+    "read_only": false,
+    "read_only_alternatives": []
+}
